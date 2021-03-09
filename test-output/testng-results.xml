@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="653" started-at="2021-01-05T08:40:40Z" finished-at="2021-01-05T08:40:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="653" started-at="2021-01-05T08:40:40Z" finished-at="2021-01-05T08:40:40Z">
+      <class name="excel2.HashMapLearning">
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="20" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0001, username=us1, password=pas1, search=selenium}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="1" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0002, username=us2, password=pas2, search=appium}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="1" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0003, username=us3, password=pas3, search=selenium and appium}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="3" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0004, username=us4, password=pas4, search=java}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="1" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0005, username=us5, password=pas5, search=junit}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="0" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0006, username=us6, password=pas6, search=testng}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="1" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0007, username=us7, password=pas7, search=javascript}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="0" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0008, username=us8, password=pas8, search=html}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="0" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0009, username=us9, password=pas9, search=python}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="1" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0010, username=us10, password=pas10, search=sql}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="0" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0011, username=us11, password=pas11, search=mondodb}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="1" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0012, username=us12, password=pas12, search=shell}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="0" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0013, username=us13, password=pas13, search=liunx}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.util.Map)[pri:0, instance:excel2.HashMapLearning@523884b2]" name="test" duration-ms="1" started-at="2021-01-05T08:40:40Z" data-provider="input" finished-at="2021-01-05T08:40:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{testid=TC0014, username=us14, password=pas14, search=ios}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- excel2.HashMapLearning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
